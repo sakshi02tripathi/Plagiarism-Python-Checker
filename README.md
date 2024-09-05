@@ -17,7 +17,7 @@ This repo contains a basic example on how to do that.
 To get started with the code on this repo, you need to either *clone* or *download* this repo into your machine as shown below;
 
 ```bash
-git clone https://github.com/Kalebu/Plagiarism-checker-Python
+git clone https://github.com/Kalebu/Plagiarism-Python-Checker
 ```
 
 ## Dependencies
